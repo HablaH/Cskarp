@@ -1,0 +1,7 @@
+C:\Users\HablaH\Documents\Koding\Github\Cskarp\c# inneuke\uke 1\hvaGjørKoden1\hvaGjørKoden1\bin\Debug\hvaGjørKoden1.exe.config
+C:\Users\HablaH\Documents\Koding\Github\Cskarp\c# inneuke\uke 1\hvaGjørKoden1\hvaGjørKoden1\bin\Debug\hvaGjørKoden1.exe
+C:\Users\HablaH\Documents\Koding\Github\Cskarp\c# inneuke\uke 1\hvaGjørKoden1\hvaGjørKoden1\bin\Debug\hvaGjørKoden1.pdb
+C:\Users\HablaH\Documents\Koding\Github\Cskarp\c# inneuke\uke 1\hvaGjørKoden1\hvaGjørKoden1\obj\Debug\hvaGjørKoden1.csproj.CoreCompileInputs.cache
+C:\Users\HablaH\Documents\Koding\Github\Cskarp\c# inneuke\uke 1\hvaGjørKoden1\hvaGjørKoden1\obj\Debug\hvaGjørKoden1.exe
+C:\Users\HablaH\Documents\Koding\Github\Cskarp\c# inneuke\uke 1\hvaGjørKoden1\hvaGjørKoden1\obj\Debug\hvaGjørKoden1.pdb
+C:\Users\HablaH\Documents\Koding\Github\Cskarp\c# inneuke\uke 1\hvaGjørKoden1\hvaGjørKoden1\obj\Debug\hvaGjørKoden1.csprojAssemblyReference.cache

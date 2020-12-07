@@ -1,0 +1,7 @@
+C:\Users\HablaH\Documents\Koding\Github\Cskarp\c# inneuke\uke 1\hello world\Hello\Hello\obj\Debug\Hello.csprojAssemblyReference.cache
+C:\Users\HablaH\Documents\Koding\Github\Cskarp\c# inneuke\uke 1\hello world\Hello\Hello\obj\Debug\Hello.csproj.CoreCompileInputs.cache
+C:\Users\HablaH\Documents\Koding\Github\Cskarp\c# inneuke\uke 1\hello world\Hello\Hello\bin\Debug\Hello.exe.config
+C:\Users\HablaH\Documents\Koding\Github\Cskarp\c# inneuke\uke 1\hello world\Hello\Hello\bin\Debug\Hello.exe
+C:\Users\HablaH\Documents\Koding\Github\Cskarp\c# inneuke\uke 1\hello world\Hello\Hello\bin\Debug\Hello.pdb
+C:\Users\HablaH\Documents\Koding\Github\Cskarp\c# inneuke\uke 1\hello world\Hello\Hello\obj\Debug\Hello.exe
+C:\Users\HablaH\Documents\Koding\Github\Cskarp\c# inneuke\uke 1\hello world\Hello\Hello\obj\Debug\Hello.pdb
