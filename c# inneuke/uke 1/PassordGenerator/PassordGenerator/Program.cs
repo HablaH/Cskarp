@@ -26,7 +26,6 @@ namespace PassordGenerator
         }
         static string ShowHelpText()
         {
-
             return ("Options:\r\n- l = lower case letter\r\n- L = upper case letter\r\n- d = digit\r\n- s = special character !" +
                 (char)34 +
                 @"#¤%&(){}[]" +
@@ -98,7 +97,7 @@ namespace PassordGenerator
         static char SwitchToRandom (char[] args)
         {          
             int randomNumber = rnd.Next(0, args.Length);           
-            return args[randomNumber];
+            return args[randomNumber];           
         }
     }
 }
