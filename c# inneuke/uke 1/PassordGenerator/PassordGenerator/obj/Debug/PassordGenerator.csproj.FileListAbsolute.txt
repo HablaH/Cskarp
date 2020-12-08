@@ -1,0 +1,6 @@
+C:\Users\HablaH\Documents\Koding\Github\Cskarp\c# inneuke\uke 1\PassordGenerator\PassordGenerator\bin\Debug\PassordGenerator.exe.config
+C:\Users\HablaH\Documents\Koding\Github\Cskarp\c# inneuke\uke 1\PassordGenerator\PassordGenerator\bin\Debug\PassordGenerator.exe
+C:\Users\HablaH\Documents\Koding\Github\Cskarp\c# inneuke\uke 1\PassordGenerator\PassordGenerator\bin\Debug\PassordGenerator.pdb
+C:\Users\HablaH\Documents\Koding\Github\Cskarp\c# inneuke\uke 1\PassordGenerator\PassordGenerator\obj\Debug\PassordGenerator.csproj.CoreCompileInputs.cache
+C:\Users\HablaH\Documents\Koding\Github\Cskarp\c# inneuke\uke 1\PassordGenerator\PassordGenerator\obj\Debug\PassordGenerator.exe
+C:\Users\HablaH\Documents\Koding\Github\Cskarp\c# inneuke\uke 1\PassordGenerator\PassordGenerator\obj\Debug\PassordGenerator.pdb
