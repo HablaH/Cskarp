@@ -17,10 +17,10 @@ namespace Puzzle2_3
             {
                 if (x < height / 2) 
                 { 
-                    for (int fs = 0; fs < x; fs++) Console.Write(" ");
-                    for (int fh = 0; fh < x+1; fh++) Console.Write("#");
-                    for (int ss = width-2-(x*(height/2)); ss > 0; ss--) Console.Write(" ");
-                    for (int sh = 0; sh < x+1; sh++) Console.Write("#");
+                    for (int fs = 0                     ; fs < x    ; fs++) Console.Write(" ");
+                    for (int fh = 0                     ; fh < x+1  ; fh++) Console.Write("#");
+                    for (int ss = width-2-(x*(height/2)); ss > 0    ; ss--) Console.Write(" ");
+                    for (int sh = 0                     ; sh < x+1  ; sh++) Console.Write("#");
                 }
                 else
                 { 

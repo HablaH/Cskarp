@@ -1,0 +1,7 @@
+C:\Users\HablaH\Documents\Koding\Github\Cskarp\c# inneuke\uke 1\IsArraySorted\IsArraySorted\bin\Debug\IsArraySorted.exe.config
+C:\Users\HablaH\Documents\Koding\Github\Cskarp\c# inneuke\uke 1\IsArraySorted\IsArraySorted\bin\Debug\IsArraySorted.exe
+C:\Users\HablaH\Documents\Koding\Github\Cskarp\c# inneuke\uke 1\IsArraySorted\IsArraySorted\bin\Debug\IsArraySorted.pdb
+C:\Users\HablaH\Documents\Koding\Github\Cskarp\c# inneuke\uke 1\IsArraySorted\IsArraySorted\obj\Debug\IsArraySorted.csprojAssemblyReference.cache
+C:\Users\HablaH\Documents\Koding\Github\Cskarp\c# inneuke\uke 1\IsArraySorted\IsArraySorted\obj\Debug\IsArraySorted.csproj.CoreCompileInputs.cache
+C:\Users\HablaH\Documents\Koding\Github\Cskarp\c# inneuke\uke 1\IsArraySorted\IsArraySorted\obj\Debug\IsArraySorted.exe
+C:\Users\HablaH\Documents\Koding\Github\Cskarp\c# inneuke\uke 1\IsArraySorted\IsArraySorted\obj\Debug\IsArraySorted.pdb
