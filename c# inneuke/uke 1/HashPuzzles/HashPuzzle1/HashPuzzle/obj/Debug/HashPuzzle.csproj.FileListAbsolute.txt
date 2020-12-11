@@ -1,0 +1,7 @@
+C:\Users\HablaH\source\repos\HashPuzzle\HashPuzzle\obj\Debug\HashPuzzle.csprojAssemblyReference.cache
+C:\Users\HablaH\source\repos\HashPuzzle\HashPuzzle\obj\Debug\HashPuzzle.csproj.CoreCompileInputs.cache
+C:\Users\HablaH\source\repos\HashPuzzle\HashPuzzle\bin\Debug\HashPuzzle.exe.config
+C:\Users\HablaH\source\repos\HashPuzzle\HashPuzzle\bin\Debug\HashPuzzle.exe
+C:\Users\HablaH\source\repos\HashPuzzle\HashPuzzle\bin\Debug\HashPuzzle.pdb
+C:\Users\HablaH\source\repos\HashPuzzle\HashPuzzle\obj\Debug\HashPuzzle.exe
+C:\Users\HablaH\source\repos\HashPuzzle\HashPuzzle\obj\Debug\HashPuzzle.pdb

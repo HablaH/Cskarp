@@ -1,0 +1,7 @@
+C:\Users\HablaH\Documents\Koding\Github\Cskarp\c# inneuke\uke 1\HashPuzzles\Puzzle2-1\Puzzle2-1\bin\Debug\Puzzle2-1.exe.config
+C:\Users\HablaH\Documents\Koding\Github\Cskarp\c# inneuke\uke 1\HashPuzzles\Puzzle2-1\Puzzle2-1\bin\Debug\Puzzle2-1.exe
+C:\Users\HablaH\Documents\Koding\Github\Cskarp\c# inneuke\uke 1\HashPuzzles\Puzzle2-1\Puzzle2-1\bin\Debug\Puzzle2-1.pdb
+C:\Users\HablaH\Documents\Koding\Github\Cskarp\c# inneuke\uke 1\HashPuzzles\Puzzle2-1\Puzzle2-1\obj\Debug\Puzzle2-1.csprojAssemblyReference.cache
+C:\Users\HablaH\Documents\Koding\Github\Cskarp\c# inneuke\uke 1\HashPuzzles\Puzzle2-1\Puzzle2-1\obj\Debug\Puzzle2-1.csproj.CoreCompileInputs.cache
+C:\Users\HablaH\Documents\Koding\Github\Cskarp\c# inneuke\uke 1\HashPuzzles\Puzzle2-1\Puzzle2-1\obj\Debug\Puzzle2-1.exe
+C:\Users\HablaH\Documents\Koding\Github\Cskarp\c# inneuke\uke 1\HashPuzzles\Puzzle2-1\Puzzle2-1\obj\Debug\Puzzle2-1.pdb
