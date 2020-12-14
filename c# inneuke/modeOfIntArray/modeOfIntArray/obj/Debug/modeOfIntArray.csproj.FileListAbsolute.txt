@@ -1,0 +1,7 @@
+C:\Users\HablaH\source\repos\modeOfIntArray\modeOfIntArray\bin\Debug\modeOfIntArray.exe.config
+C:\Users\HablaH\source\repos\modeOfIntArray\modeOfIntArray\bin\Debug\modeOfIntArray.exe
+C:\Users\HablaH\source\repos\modeOfIntArray\modeOfIntArray\bin\Debug\modeOfIntArray.pdb
+C:\Users\HablaH\source\repos\modeOfIntArray\modeOfIntArray\obj\Debug\modeOfIntArray.csprojAssemblyReference.cache
+C:\Users\HablaH\source\repos\modeOfIntArray\modeOfIntArray\obj\Debug\modeOfIntArray.csproj.CoreCompileInputs.cache
+C:\Users\HablaH\source\repos\modeOfIntArray\modeOfIntArray\obj\Debug\modeOfIntArray.exe
+C:\Users\HablaH\source\repos\modeOfIntArray\modeOfIntArray\obj\Debug\modeOfIntArray.pdb
