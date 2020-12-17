@@ -1,0 +1,7 @@
+C:\Users\HablaH\Documents\Koding\Github\Cskarp\c# inneuke\Ordlek\Ordlek\bin\Debug\Ordlek.exe.config
+C:\Users\HablaH\Documents\Koding\Github\Cskarp\c# inneuke\Ordlek\Ordlek\bin\Debug\Ordlek.exe
+C:\Users\HablaH\Documents\Koding\Github\Cskarp\c# inneuke\Ordlek\Ordlek\bin\Debug\Ordlek.pdb
+C:\Users\HablaH\Documents\Koding\Github\Cskarp\c# inneuke\Ordlek\Ordlek\obj\Debug\Ordlek.csprojAssemblyReference.cache
+C:\Users\HablaH\Documents\Koding\Github\Cskarp\c# inneuke\Ordlek\Ordlek\obj\Debug\Ordlek.csproj.CoreCompileInputs.cache
+C:\Users\HablaH\Documents\Koding\Github\Cskarp\c# inneuke\Ordlek\Ordlek\obj\Debug\Ordlek.exe
+C:\Users\HablaH\Documents\Koding\Github\Cskarp\c# inneuke\Ordlek\Ordlek\obj\Debug\Ordlek.pdb
