@@ -7,88 +7,51 @@ using System.IO;
 
 namespace Ordlek
 {
-    class Program
+    public static class Program
     {
-        static void Main(string[] args)
+
+        public static readonly int minimumWordLength = 7;
+        public static readonly int maximumWordLength = 10;
+        
+        public static readonly int minimumCharMatch = 3;
+        public static readonly int maximumCharMatch = 3;
+
+        public enum longWord { minimumWordLength, maximumWordLength };
+        public enum longChar { minimumCharMatch, maximumCharMatch };
+
+        public static MinMax longestWord = new MinMax(7, 10);
+        public static MinMax shortWord = new MinMax(3, 5);
+
+        public static readonly char[] unallowedCharacters = { '-', ' ', ':', ',', '.', '\t', };
+
+        
+        public static void Main(string[] args)
         {
+
+            bool hei = int.TryParse("5", out int x);
             string[] text = File.ReadAllLines("ordliste.txt");
             //purgeList(text, 7, 10)
             //purgeList(text, 3, 5)
-            string word1 = getWordAndMatch(purgeList(text, 7, 10), purgeList(text, 3, 5));
+            string word1 = WordMatching.GetWordAndMatch(text.MakeAUniqueListOf(longestWord), text.MakeAUniqueListOf(shortWord));
             Console.WriteLine(word1);
+
+            // from text get two words, where last part of first word matches first part of second word
+            // print them with some text
+
+            //
+
         }
 
-        static string getWord(string line)
+        //static string chosenWord()
+    }
+
+    public class MinMax
+    {
+        public int min, max;
+        public MinMax(int min, int max)
         {
-            char[] check = { '-', ' ', ':', ',', '.' };
-            string[] devided = line.Split('\t');
-            string word = devided[1];
-            if (char.IsWhiteSpace(word[0]))
-                word = word.Substring(1);
-            if (word.IndexOfAny(check) != -1) return "";
-            return word;
+            this.min = min;
+            this.max = max;
         }
-
-        static string[] purgeList(string[] text, int min , int max)
-        {
-            List<string> cleanList = new List<string>();
-            string previousStr = null;
-            foreach (string line in text)
-            {
-                string word = getWord(line);
-                if (word != previousStr && word.Length >=min && word.Length <=max)
-                {
-                    cleanList.Add(word);
-                    previousStr = word;
-                }
-                else continue;
-            }
-            return cleanList.ToArray();
-        }
-
-        static string getWordAndMatch(string[] words, string[] dictionary) 
-        {
-            Random rnd = new Random();
-            string[] listHuan = words;
-        here:
-            string chosenWord = listHuan[rnd.Next(0, listHuan.Length - 1)];
-            if (dictionaryCheck(chosenWord, dictionary, 1)) return chosenWord;
-            else goto here;
-            
-        }
-
-        static bool dictionaryCheck(string chosenWord, string[] dictionary, int point)
-        {
-            string part = cutPart(chosenWord, point);
-            Console.WriteLine( "part to search for: " + part);
-            if (part == null) return false;
-
-            foreach (var word in dictionary)
-            {
-                if (part.Contains(word)) 
-                {
-                    Console.WriteLine("matched with part: " + word);
-                    return true; 
-                }
-                else continue;
-            }
-            return false;
-        }
-
-        static string cutPart(string word, int point)
-        {
-            switch (point)
-            {
-                case 1:
-                    return word.Substring(word.Length - 3);
-                case 2:
-                    return word.Substring(0, 3);
-                default:
-                    Console.WriteLine("something broke");
-                    return null;
-            }
-        }
-
-        static string matchWord(string chosen,)
     }
 }
